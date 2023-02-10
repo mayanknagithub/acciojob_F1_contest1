@@ -1,0 +1,23 @@
+nav{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    width: 100%;
+}
+.style{
+    font-family: 'Roboto', sans-serif;
+}
+button{
+    width: 127px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+img{
+    height: 400px;
+    width: 300px;
+}
+
+
